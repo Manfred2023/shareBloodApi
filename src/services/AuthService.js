@@ -1,3 +1,17 @@
+/*
+ * ============================================================
+ *  Projet     : ShareBlood - API
+ *  Version    : 1.0.0
+ *  Auteur     : Manfred MOUKATE <moukatemanfred@gmail.com>
+ *  Créé le    : 26/05/2026, 21:14
+ *  Modifié le : 26/05/2026, 21:14
+ *
+ *  Copyright (c)
+ *  Licence    : Propriétaire — toute reproduction interdite
+ *               sans autorisation écrite de l'auteur.
+ *  ============================================================
+ */
+
 // src/services/auth.service.js
 const bcrypt = require('bcrypt');
 const jwt = require('jsonwebtoken');

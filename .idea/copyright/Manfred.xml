@@ -1,0 +1,6 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="notice" value="============================================================&#10; Projet     : ShareBlood - API &#10; Version    : 1.0.0&#10; Auteur     : Manfred MOUKATE &lt;moukatemanfred@gmail.com&gt;&#10; Créé le    : &amp;#36;today&#10; Modifié le : &amp;#36;today&#10;&#10; Copyright (c) &amp;#36;originalComment.match(&quot;Copyright \(c\) (\d+)&quot;, 1, &quot;-&quot;, &quot;&amp;#36;today.year&quot;)&#10; Licence    : Propriétaire — toute reproduction interdite&#10;              sans autorisation écrite de l'auteur.&#10; ============================================================" />
+    <option name="myName" value="Manfred" />
+  </copyright>
+</component>
